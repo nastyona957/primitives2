@@ -6,7 +6,7 @@ public class Main {
         int balance = 100; // Начальный баланс клиента
         int depositAmount = 1100; // Сумма пополнения
 
-        int bonus = 0;
+        int bonus;
         bonus = depositAmount / 100; // Начисление бонуса за каждые 100 рублей пополнения
 
 
