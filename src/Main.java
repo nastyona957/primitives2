@@ -17,5 +17,5 @@ public class Main {
         System.out.println("Бонус: " + bonus + " рублей");
         System.out.println("Итоговый баланс: " + finalBalance + " рублей");
 
-        }
     }
+}
